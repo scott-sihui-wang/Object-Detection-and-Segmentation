@@ -14,3 +14,8 @@ For overview, technical details, and analysis of this project, please refer to m
 
 ## 2. Demo
 
+Here is one sample of the results of detection and segmentation of planes:
+
+![demo](demo.png)
+
+For more results, please refer to my `colab` pages at [Project Page - Part 1](https://colab.research.google.com/drive/1TSSWE-MK9oMgyO7_nkwZrFnukKzbco5P?usp=sharing) and [Project Page - Part 2](https://colab.research.google.com/drive/1kEhLJPAgAhhUHkAh3tqjc_RDHT83LiJr?usp=sharing).
